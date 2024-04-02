@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T12:56:42 IST" name="Default suite" finished-at="2024-04-02T12:57:54 IST" duration-ms="72023">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Owner_Runner@723ca036]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-04-02T12:56:42 IST" name="Default test" finished-at="2024-04-02T12:57:54 IST" duration-ms="72023">
+      <class name="runner.Owner_Runner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:56:42 IST" name="setUpClass" finished-at="2024-04-02T12:56:42 IST" duration-ms="181" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4c6b4ed7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:56:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-02T12:56:51 IST" duration-ms="8327" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Owner views insights"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Owner Management on 99Acres Website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:56:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-02T12:57:03 IST" duration-ms="11936" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Owner Services"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Owner Management on 99Acres Website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:57:03 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-02T12:57:13 IST" duration-ms="10190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Articles and News"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Owner Management on 99Acres Website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:57:13 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-02T12:57:25 IST" duration-ms="12205" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Owner updates property details"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Owner Management on 99Acres Website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:57:25 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-02T12:57:40 IST" duration-ms="15153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Checking Eligibility"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Owner Management on 99Acres Website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:57:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-04-02T12:57:54 IST" duration-ms="13983" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Checking Eligibility"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Owner Management on 99Acres Website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.Owner_Runner@723ca036]" started-at="2024-04-02T12:57:54 IST" name="tearDownClass" finished-at="2024-04-02T12:57:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.Owner_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
